@@ -5,5 +5,15 @@ files:
   text: '# put your python code here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5938#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #4 of 41. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 25, in <module>
+        print(number_1 / number_2)
+    ZeroDivisionError: float division by zero
+  time: Tue, 15 Dec 2020 19:43:55 UTC
 record: -1
