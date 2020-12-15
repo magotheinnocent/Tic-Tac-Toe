@@ -5,21 +5,8 @@ files:
   text: '# put your python code here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5938#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #3 of 41. Cannot check answer. Perhaps output format is wrong.
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    5.0
-    10.0
-    /
-    Correct output:
-    0.5
-
-    Your code output:
-    Division by 0!
-  time: Tue, 15 Dec 2020 19:56:42 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 15 Dec 2020 20:02:29 UTC
 record: -1

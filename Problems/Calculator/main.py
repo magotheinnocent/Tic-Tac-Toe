@@ -3,7 +3,7 @@ number_1 = float(input())
 number_2 = float(input())
 arithmetic = input()
 
-if arithmetic == "mod" or arithmetic == "/" or arithmetic == "div" and number_2 == 0:
+if number_2 == 0.0 and arithmetic in ("/", "mod", "div"):
     print("Division by 0!")
 
 elif arithmetic == "+":
