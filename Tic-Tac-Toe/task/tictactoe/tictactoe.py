@@ -1,4 +1,4 @@
 # write your code here
-print("X 0 X")
-print("0 X 0")
-print("X X 0")
+print("X O X")
+print("O X O")
+print("X X O")
