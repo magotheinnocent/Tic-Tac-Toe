@@ -8,12 +8,18 @@ feedback_link: https://hyperskill.org/learn/step/5938#comment
 status: Failed
 feedback:
   message: |
-    Failed test #4 of 41. Runtime error
+    Failed test #3 of 41. Cannot check answer. Perhaps output format is wrong.
 
-    Error:
-    Traceback (most recent call last):
-      File "jailed_code", line 25, in <module>
-        print(number_1 / number_2)
-    ZeroDivisionError: float division by zero
-  time: Tue, 15 Dec 2020 19:43:55 UTC
+    This is a sample test from the problem statement!
+
+    Test input:
+    5.0
+    10.0
+    /
+    Correct output:
+    0.5
+
+    Your code output:
+    Division by 0!
+  time: Tue, 15 Dec 2020 19:53:31 UTC
 record: -1
