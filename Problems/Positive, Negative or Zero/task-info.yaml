@@ -5,22 +5,8 @@ files:
   text: '# put your python code here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6812#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #1 of 6. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    -5
-
-    Correct output:
-    negative
-
-
-    Your code output:
-    negative
-    zero
-  time: Wed, 16 Dec 2020 08:34:43 UTC
+  message: <html>Correct solution</html>
+  time: Wed, 16 Dec 2020 08:36:12 UTC
 record: -1
