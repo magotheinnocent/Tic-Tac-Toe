@@ -4,21 +4,8 @@ files:
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7998#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #1 of 4. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    pizza
-
-    Correct output:
-    Margherita, Four Seasons, Neapolitan, Vegetarian, Spicy
-
-
-    Your code output:
-    ('Margherita', 'Four Seasons', 'Neapolitan', 'Vegetarian', 'Spicy')
-  time: Wed, 16 Dec 2020 08:10:29 UTC
+  message: <html>Correct solution</html>
+  time: Wed, 16 Dec 2020 08:13:26 UTC
 record: -1
