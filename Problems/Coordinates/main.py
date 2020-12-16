@@ -1,5 +1,5 @@
-number1 = int(input())
-number2 = int(input())
+number1 = input()
+number2 = input()
 
 if number1 == 0 and number2 == 0:
     print("Origin")
