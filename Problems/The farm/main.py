@@ -14,7 +14,6 @@ elif price < 678:
     else:
         print(f"{int(chicken)} chicken")
 
-
 elif price < 1296:
     if price // 678 > 1:
         print(f"{int(goat)} goats")
@@ -27,14 +26,14 @@ elif price < 3848:
     else:
         print(f"{int(pig)} pig")
 
-elif price < 6769 and cow > 1:
+elif price < 6769:
     if price // 3848 > 1:
         print(f"{int(cow)} cows")
     else:
         print(f"{int(cow)} cow")
 
 else:
-    if price // 23 > 1:
+    if price // 3848 > 1:
         print(f"{int(sheep)} sheep")
     else:
         print(f"{int(sheep)} sheep")
