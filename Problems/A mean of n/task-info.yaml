@@ -1,0 +1,31 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6818#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 11. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    8
+    5
+    -7
+    6
+    2
+    5
+    5
+    -7
+    -10
+
+    Correct output:
+    -0.125
+
+    Your code output:
+    Enter number of elements :
+  time: Wed, 16 Dec 2020 12:12:44 UTC
+record: -1
