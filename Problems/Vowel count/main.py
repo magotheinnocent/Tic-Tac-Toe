@@ -1,4 +1,7 @@
 string = "red yellow fox bite orange goose beeeeeeeeeeep"
-vowels = 'aeiou'
+vowels = ['a', 'e', 'i', 'o', 'u']
+number = 0
 for vowels in string:
-    print(string)
+   number += 1
+
+print(number)

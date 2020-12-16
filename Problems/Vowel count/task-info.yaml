@@ -7,5 +7,9 @@ files:
     vowels = 'aeiou'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7199#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Wed, 16 Dec 2020 11:41:12 UTC
 record: -1
