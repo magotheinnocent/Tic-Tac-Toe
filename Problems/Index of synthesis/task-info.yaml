@@ -4,5 +4,25 @@ files:
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6533#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 17. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    2.35
+    Correct output:
+    Synthetic
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 1, in <module>
+        value_of_index = int(input())
+    ValueError: invalid literal for int() with base 10: '2.35'
+  time: Wed, 16 Dec 2020 07:32:01 UTC
 record: -1
