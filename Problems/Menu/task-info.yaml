@@ -6,7 +6,7 @@ files:
 feedback_link: https://hyperskill.org/learn/step/7998#comment
 status: Failed
 feedback:
-  message: |+
+  message: |
     Failed test #1 of 4. Wrong answer
 
     This is a sample test from the problem statement!
@@ -19,6 +19,6 @@ feedback:
 
 
     Your code output:
-
-  time: Wed, 16 Dec 2020 07:57:03 UTC
+    ('Margherita', 'Four Seasons', 'Neapolitan', 'Vegetarian', 'Spicy')
+  time: Wed, 16 Dec 2020 08:10:29 UTC
 record: -1
