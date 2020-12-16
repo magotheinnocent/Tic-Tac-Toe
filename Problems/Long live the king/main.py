@@ -1,10 +1,10 @@
 column = int(input())
 row = int(input())
 
-if row in (1, 8) and column in (1, 8):
+if (column == 1 and row == 1) or (column == 8 and row == 1) or (column == 8 and row == 8) or (column == 1 and row == 8):
     print("3")
 
-elif column in (1, 8) and row in(1, 8):
+elif (column == 1 and 1 < row < 8 ) or (1 < column < 8 and row == 1):
     print("5")
 
 else:
