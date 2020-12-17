@@ -1,5 +1,5 @@
-summ = 0
-n = int(input())
-for _i in range(n):
-    summ += int(input())
-print(summ / n)
+sum_of_numbers = 0
+number = int(input())
+for _i in range(number):
+    sum_of_numbers += int(input())
+print(sum_of_numbers / number)
