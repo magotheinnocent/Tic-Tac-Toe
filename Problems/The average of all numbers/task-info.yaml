@@ -5,5 +5,20 @@ files:
   text: '# put your python code here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6071#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 25. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    -5
+    12
+    Correct output:
+    4.5
+
+    Your code output:
+    21
+  time: Thu, 17 Dec 2020 17:47:01 UTC
 record: -1
