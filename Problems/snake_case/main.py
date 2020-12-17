@@ -1,6 +1,10 @@
-word = input()
+camelword = input()
+snakeword = camelword[0].lower()
 
-for i in range(len(word)):
-    if not word[i].islower() and i > 0:
-        word = word[:i] + "_" + word[i:]
-    print(word)
+for letter in camelword[1:]:
+    if letter.isupper():
+        snakeword += "_" + letter.lower()
+    else:
+        snakeword += letter
+
+print(snakeword)
