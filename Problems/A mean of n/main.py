@@ -1,5 +1,5 @@
-
-number = int(input("Enter number of elements : "))
-
-for i in range(0, number):
-    ele = int(input())
+summ = 0
+n = int(input())
+for _i in range(n):
+    summ += int(input())
+print(summ / n)
