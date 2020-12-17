@@ -4,5 +4,15 @@ files:
   visible: true
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5209#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 1, in <module>
+        name = str(input())
+    EOFError: EOF when reading a line
+  time: Thu, 17 Dec 2020 13:31:01 UTC
 record: -1
