@@ -2,8 +2,8 @@
 numbers = [int(n) for n in input()]
 
 # change the next two lines
-less_than_5 = numbers() < 5
-greater_than_5 = numbers() > 5
+less_than_5 =
+greater_than_5 =
 
 # printing your results
 print(less_than_5)
