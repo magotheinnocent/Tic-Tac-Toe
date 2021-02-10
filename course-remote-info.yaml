@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/239550/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 17 Dec 2020 18:23:42 UTC
+update_date: Wed, 10 Feb 2021 07:43:57 UTC
 stages:
 - id: 399
   step: 6503
@@ -35,14 +35,14 @@ topics:
     theory_id: 6081
   - title: Taking input
     theory_id: 5913
-  - title: List
-    theory_id: 5979
-  - title: Indexes
-    theory_id: 6189
   - title: Basic data types
     theory_id: 5852
   - title: Variables
     theory_id: 5859
+  - title: List
+    theory_id: 5979
+  - title: Indexes
+    theory_id: 6189
   2:
   - title: IDE
     theory_id: 10996
@@ -60,10 +60,6 @@ topics:
     theory_id: 5926
   - title: For loop
     theory_id: 6065
-  - title: List comprehension
-    theory_id: 6315
-  - title: Nested lists
-    theory_id: 6938
   - title: PyCharm basics
     theory_id: 6193
   - title: Integer arithmetic
@@ -72,6 +68,10 @@ topics:
     theory_id: 6025
   - title: Comparisons
     theory_id: 5920
+  - title: List comprehension
+    theory_id: 6315
+  - title: Nested lists
+    theory_id: 6938
   3:
   - title: Invoking a function
     theory_id: 5891

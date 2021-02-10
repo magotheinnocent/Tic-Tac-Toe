@@ -87,7 +87,7 @@ class TicTacToeField:
 
         for line in lines:
             if len(line) != 9:
-                raise WrongAnswerException(
+                raise WrongAnswer(
                     f"Line of Tic-Tac-Toe field should be 9 characters long\n"
                     f"found {len(line)} characters in \"{line}\"")
             for c in line:
